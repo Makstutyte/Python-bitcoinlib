@@ -26,12 +26,12 @@ To run the program code you need:
 * 3.py - counts all specific block transaction transfers (outputs) 
 
 ## Task files perform following actions
-* 1uz.py - program that calculates transaction fee of any given Bitcoin transaction (by providing its hash).
+* 1uz.py - program that calculates transaction fee of any given Bitcoin transaction (by providing its hash)
    * default transaction hash - 0627052b6f28912f2703066a912ea577f2ce4da4caa5a5fbd8a57286c345c2f2
  ![1uz](/png/1.png)
 
-* 2uz.py - program that retrieves the specified block header information and "checks" that the block hash is correct (the block is specified by providing its blockkeight)
-   * default block number - 277316
+* 2uz.py - program that retrieves the specified block header information and "checks" that the block hash is correct (the block is specified by providing its blockheight)
+   * default blockheight - 277316
 ![2uz](/png/2.png)
 
 
