@@ -21,7 +21,7 @@ To run the program code you need:
      
 ## Test files perform following actions
 * 1.py - finds out the number of blocks in the bitcoin-core node
-   * Terminal equivalent command →  it bitcoin-cli getblockchaininfo
+   * Terminal equivalent command → bitcoin-cli getblockchaininfo
 * 2.py - derives the values of certain specific transaction
 * 3.py - counts all specific block transaction transfers (outputs) 
 
