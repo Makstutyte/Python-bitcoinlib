@@ -27,15 +27,13 @@ To run the program code you need:
 
 ## Task files perform following actions
 * 1uz.py - program that calculates transaction fee of any given Bitcoin transaction (by providing its hash).
- * default transaction hash - 0627052b6f28912f2703066a912ea577f2ce4da4caa5a5fbd8a57286c345c2f2
- 
-![1uz](1uz.png)
+   * default transaction hash - 0627052b6f28912f2703066a912ea577f2ce4da4caa5a5fbd8a57286c345c2f2
+ ![1uz](/png/1.png)
 
-* 2uz.py - 
+* 2uz.py - program that retrieves the specified block header information and "checks" that the block hash is correct (the block is specified by providing its blockkeight)
+   * default block number - 277316
+![2uz](/png/2.png)
 
 
 
 
-Using the python-bitcoinlib library, implement a program in the Python environment that retrieves the relevant block header information
-"check" that the block hash is correct. As an aid, we recommend using the following wiki source: Block hashing
-algorithm
